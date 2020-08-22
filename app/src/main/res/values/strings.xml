@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyApplication7</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="aboutus">
+
+
+ASV AGRO is brand name registered under ASV Agro Pvt Ltd. that is dedicated to bringing Agricultural &amp; Dairy product from farmers to your plate. Today, Farmer is the most important part of our ecosystem who produces raw material of our daily food. Since it has been found that farmers are becoming the most marginalised group in this ecosystem. Majority of farmers involved in agricultural &amp; dairy production are not able to live a comfortable life as they are not getting their respectable share of price from sales price. ASV AGRO ​helps our farmers to reach their customers by skipping un necessary intermediaries which will help them in getting a respectable price for their produce. ASV AGRO is a social entrepreneurship company that is registered in 2019 under the Ministry of Corporate Affair Government of India. Here, we help farmers and Agriculture producers using our 360-degree infrastructure that includes Scientific expertise with Sustainable approach to increase production, Co-Operative &amp; Community farming, Self Sustainable Farming, Transit from Chemical farming to Organic farming, Marketing their products through ASV AGRO etc. We help farmers from vacant land to quality production to Sale of their produce. Here, We are dedicated to completely transit from Chemical/Urea farming to Organic farming. Today, most health issues are coming out of food habit and urea/ Chemical-based agriculture raw produce that is served on the plate every day. We eat the poison that hamper our body unknowingly but slowly. we will serve you fully organic agriculture product &amp; Dairy product produce. Consumers of ASV AGRO can expect punctuality, hygiene, quality and ethical pricing. By the time consumer of ASV AGRO will slowly move towards Organic consumption which in the long term save a lot of value on health which is priceless.
+
+    </string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>

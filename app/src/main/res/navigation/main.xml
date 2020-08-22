@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    app:startDestination="@id/home">
+
+    <fragment
+        android:id="@+id/home"
+        android:name="com.example.myapplication.HomeFragment"
+        android:label="Home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/search"
+        android:name="com.example.myapplication.SearchFragment"
+        android:label="Search"
+        tools:layout="@layout/fragment_search" />
+
+    <fragment
+        android:id="@+id/cart"
+        android:name="com.example.myapplication.CartFragment"
+        android:label="Cart"
+        tools:layout="@layout/fragment_cart" />
+
+    <fragment
+        android:id="@+id/orders"
+        android:name="com.example.myapplication.OrderHistory"
+        android:label="Order History"
+        tools:layout="@layout/fragment_order_history" />
+
+    <fragment
+        android:id="@+id/help"
+        android:name="com.example.myapplication.HelpAndSupport"
+        android:label="Help &amp; Support"
+        tools:layout="@layout/fragment_help_support" />
+
+    <fragment
+        android:id="@+id/aboutus"
+        android:name="com.example.myapplication.AboutUs"
+        android:label="AboutUs"
+        tools:layout="@layout/fragment_aboutus" />
+</navigation>
